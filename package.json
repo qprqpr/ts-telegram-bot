@@ -1,0 +1,45 @@
+{
+  "name": "ts-telegram-bot",
+  "version": "1.0.0",
+  "description": "TypeScript Telegram Bot API",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "build": "tsc --project tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qprqpr/ts-telegram-bot.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "telegram",
+    "bot",
+    "API"
+  ],
+  "author": "Alexander Kupriyanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qprqpr/ts-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/qprqpr/ts-telegram-bot#readme",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "deep-rename-keys": "0.2.1",
+    "express": "4.17.1",
+    "node-fetch": "2.6.0",
+    "reflect-metadata": "0.1.13",
+    "rxjs": "6.5.3",
+    "typedi": "0.8.0",
+    "typescript": "3.6.3"
+  },
+  "devDependencies": {
+    "@types/body-parser": "1.17.1",
+    "@types/express": "4.17.1",
+    "@types/node": "12.7.5",
+    "@types/node-fetch": "2.5.0",
+    "tslint": "5.20.0",
+    "tslint-config-airbnb": "5.11.1"
+  }
+}

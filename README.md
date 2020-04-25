@@ -1,2 +1,1 @@
-# ts-telegram-bot
-TypeScript framework for Telegram Bot API
+# TypeScript framework for Telegram Bot API
