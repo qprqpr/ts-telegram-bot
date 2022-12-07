@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/qprqpr/ts-telegram-bot#readme",
   "dependencies": {
-    "body-parser": "1.19.0",
+    "body-parser": "1.20.1",
     "deep-rename-keys": "0.2.1",
-    "express": "4.17.1",
+    "express": "4.18.2",
     "node-fetch": "2.6.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.3",
